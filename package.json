@@ -1,0 +1,22 @@
+{
+  "name": "930pm_node",
+  "version": "1.0.0",
+  "description": "setting up express",
+  "main": "global_example1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theboman/930pm_Node.git"
+  },
+  "author": "Bo Opfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theboman/930pm_Node/issues"
+  },
+  "homepage": "https://github.com/theboman/930pm_Node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
